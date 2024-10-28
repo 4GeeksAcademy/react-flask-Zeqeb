@@ -20,6 +20,9 @@ flask-admin = "*"
 typing-extensions = "*"
 flask-jwt-extended = "*"
 flask-bcrypt = "*"
+datetime = "*"
+bcrypt = "*"
+alembic = "*"
 
 [requires]
 python_version = "3.10"
